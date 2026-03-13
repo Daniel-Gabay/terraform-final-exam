@@ -1,0 +1,20 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Executables
+*.exe
+
+# Keys
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
